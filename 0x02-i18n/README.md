@@ -24,7 +24,7 @@ I learnt the following while doing the tasks in this project:
 + [x] [2. Get locale from request](./2-app.py)
 
     + Create a get_locale function with the babel.localeselector decorator. Use request.accept_languages to determine the best match with our supported language
-+ [x][3. Parametrize templates](./3-app.py)
++ [x] [3. Parametrize templates](./3-app.py)
 
    + Use the _or gettext function to parametrize your templates. Use the message IDs home_title and home_header.
 
